@@ -1,0 +1,2 @@
+demand_rmse,demand_mae,demand_r2,congestion_flagged_pct,avg_expected_load_kwh,baseline_tariff,surge_tariff,discount_tariff,revenue_gain_pct,network_util_before_pct,network_util_after_pct,util_improvement_pp,offpeak_uplift_pct,surge_util_before,surge_util_after,episodes_tracked,pricing_efficiency_score,customer_response_rate,avg_wait_reduction
+0.0369,0.0187,0.9559,0.87,11.0,15.0,22.5,12.75,11.12,28.01,31.59,3.57,35.0,0.876,0.771,144,14.78,1.128,0.1051
