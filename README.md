@@ -270,7 +270,10 @@ OP26-EV-Charging-Analytics/
 │   ├── demand_predictions.csv         # Agent 1 output — predictions + congestion
 │   ├── pricing_output.csv             # Agent 2 output — tariffs + revenue
 │   └── final_metrics.csv              # Consolidated metrics across all agents
-│
+│ 
+├── presentation/
+│   └── OP26_Manas.pdf
+│ 
 └── .gitignore
 ```
 
