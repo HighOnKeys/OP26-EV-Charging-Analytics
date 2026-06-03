@@ -267,8 +267,8 @@ OP26-EV-Charging-Analytics/
 │   ├── plot9_pricing_results.png      # Revenue and utilization results
 │   ├── plot10_monitoring.png          # Monitoring agent dashboard
 │   ├── plot_model_comparison.png      # RF vs XGBoost vs LightGBM comparison
-│   ├── demand_predictions.csv         # Agent 1 output — predictions + congestion
-│   ├── pricing_output.csv             # Agent 2 output — tariffs + revenue
+│   ├── demand_predictions.csv         # Agent 1 output — predictions + congestion (large file can't upload on github)
+│   ├── pricing_output.csv             # Agent 2 output — tariffs + revenue        (large file can't upload on github)
 │   └── final_metrics.csv              # Consolidated metrics across all agents
 │ 
 ├── presentation/
