@@ -242,8 +242,7 @@ OP26-EV-Charging-Analytics/
 │
 ├── data/
 │   ├── acn_processed.csv              # Cleaned ACN session data (14,848 rows)
-│   ├── acn_sessions_converted.csv     # ACN data converted from JSON/XLSX
-│   ├── urban_processed.csv            # Unified UrbanEV base table (2.1M rows)
+│   ├── urban_processed.csv            # Unified UrbanEV base table (2.1M rows) (large file can't upload on github)
 │   ├── information.csv                # Station metadata (247 stations)
 │   ├── price.csv                      # Raw price matrix
 │   └── stations.csv                   # Station coordinates
